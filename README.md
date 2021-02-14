@@ -29,7 +29,7 @@ Technologies
 10. What do I need to know about networking? (LAN; Wi-fi; routers; IP/TCP; SSH; HTTP) 
 11. What math/statistics do I need to know?
 12. How is NoSQL used?
-13. How is computer vision and NLP used?
+13. How are computer vision and NLP used?
 14. What is a Programming language vs scripting language?
 15. What is Frontend vs Client side and Backend vs Server side?
 16. Should I use SCSS or SASS?
