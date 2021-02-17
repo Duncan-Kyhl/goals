@@ -1,20 +1,28 @@
-# Goals
-Learning goals for software development.
+# Goals & Questions
+Document in development. 
+Potential learning goals split into three paths: Analytics, Data Science, and Software.
 
-With so many technologies available, I have spent too much time bouncing from language to language. This as an official record, I am committing myself to learning a 10 technologies and excelling in them. Here they are, ranked in order of importance:
 
-Technologies
-- Git and Github
+Analytics:
 - Excel
-- SQL & MySQL
-- AWS Cloud Storage
-- Javascript/Node.js
-- HTML/CSS
-- Python for data science
-- Vue.js
+- SQL
 - Tableau
-- Java
-- GO
+- AWS/Databases
+
+Data Science:
+- Python Libraries 
+-   Data Mining: [scrapy, BeautifulSoup]
+-   Data Processing: [numpy, pandas]
+-   Machine Learning: [matplotlib, seaborn, bokeh, plotly]
+-   Data Visualization: [scikitlearn, keras, PyTorch, TensorFlow]
+- Statistics
+
+Software:
+- Source Control
+- HTML/CSS/JS
+- Java/C#
+- Node
+- React/Vue
 
 2/13/21 - Questions:
 1. How do I use source control?
