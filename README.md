@@ -11,10 +11,10 @@ Potential learning goals split into three paths: Analytics, Data Science, and So
 
 ### Data Science:
 - Python Libraries 
--   Data Mining: [scrapy, BeautifulSoup]
--   Data Processing: [numpy, pandas]
--   Machine Learning: [matplotlib, seaborn, bokeh, plotly]
--   Data Visualization: [scikitlearn, keras, PyTorch, TensorFlow]
+    -   Data Mining: [scrapy, BeautifulSoup]
+    -   Data Processing: [numpy, pandas]
+    -   Machine Learning: [matplotlib, seaborn, bokeh, plotly]
+    -   Data Visualization: [scikitlearn, keras, PyTorch, TensorFlow]
 - Statistics
 
 ### Software:
