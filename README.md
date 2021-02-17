@@ -3,13 +3,13 @@ Document in development.
 Potential learning goals split into three paths: Analytics, Data Science, and Software.
 
 
-Analytics:
+### Analytics:
 - Excel
 - SQL
 - Tableau
 - AWS/Databases
 
-Data Science:
+### Data Science:
 - Python Libraries 
 -   Data Mining: [scrapy, BeautifulSoup]
 -   Data Processing: [numpy, pandas]
@@ -17,14 +17,14 @@ Data Science:
 -   Data Visualization: [scikitlearn, keras, PyTorch, TensorFlow]
 - Statistics
 
-Software:
+### Software:
 - Source Control
 - HTML/CSS/JS
 - Java/C#
 - Node
 - React/Vue
-
-2/13/21 - Questions:
+---
+#### 2/13/21 - Questions:
 1. How do I use source control?
 2. How do I write clean code?
 3. How do I organize my files neatly?
