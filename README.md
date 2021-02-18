@@ -6,8 +6,8 @@ Potential learning goals split into three paths: Analytics, Data Science, and So
 ### Analytics:
 - Excel
 - SQL
-- Tableau
-- AWS/Databases
+- BI Tools [Tableau, Power BI, Qlik]
+- Databases [MySQL, PostgreSQL, AWS]
 
 ### Data Science:
 - Python Libraries 
@@ -16,13 +16,15 @@ Potential learning goals split into three paths: Analytics, Data Science, and So
     -   Machine Learning: [scikitlearn, keras, PyTorch, TensorFlow]
     -   Data Visualization: [matplotlib, seaborn, bokeh, plotly]
 - Statistics
+- Linear Algebra
+- DiffEq? Multivar Calc?
 
 ### Software:
 - Source Control
 - HTML/CSS/JS
 - Java/C#
-- Node
-- React/Vue
+- Backend [Node, PHP]
+- Frontedn [Angular, React, Vue]
 ---
 #### 2/13/21 - Questions:
 1. How do I use source control?
@@ -45,6 +47,6 @@ Potential learning goals split into three paths: Analytics, Data Science, and So
 18. What hardware goes into a computer?
 19. What is cybersecurity?
 20. How can I use quantum computing and blockchain?
-21. What is PyTorch vs TensorFlow?
+21. What is Keras vs PyTorch vs TensorFlow?
 22. What jobs allow me to code other than software developers?
 
