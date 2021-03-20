@@ -2,14 +2,15 @@
 Document in development. 
 Potential learning goals split into three paths: Analytics, Data Science, and Software.
 
+### Software:
+- Source Control
+- HTML/CSS/JS
+- Python
+- Memory
+- Backend [Node, PHP]
+- Frontend [Angular, React, Vue]
 
-### Analytics:
-- Excel
-- SQL
-- BI Tools [Tableau, Power BI, Qlik]
-- Databases [MySQL, PostgreSQL, AWS]
-
-### Data Science:
+### AI/ML/DL:
 - Python Libraries 
     -   Data Mining: [scrapy, BeautifulSoup]
     -   Data Processing: [numpy, pandas]
@@ -17,14 +18,13 @@ Potential learning goals split into three paths: Analytics, Data Science, and So
     -   Data Visualization: [matplotlib, seaborn, bokeh, plotly]
 - Statistics
 - Linear Algebra
-- DiffEq? Multivar Calc?
 
-### Software:
-- Source Control
-- HTML/CSS/JS
-- Java/C#
-- Backend [Node, PHP]
-- Frontedn [Angular, React, Vue]
+### Analytics:
+- Excel
+- SQL
+- BI Tools [Tableau, Power BI, Qlik]
+- Databases [MySQL, PostgreSQL, AWS]
+
 ---
 #### 2/13/21 - Questions:
 1. How do I use source control?
