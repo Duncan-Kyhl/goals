@@ -2,6 +2,8 @@
 Document in development. 
 Potential learning goals split into three paths: Analytics, Data Science, and Software.
 
+### Current Goal: Learn HTML, CSS, JS, and React. Complete 3 React projects (small, medium, large) prior to May 10 (7 weeks). Projects applicable to GEHC if possible.
+
 ### Software:
 - Source Control
 - HTML/CSS/JS
