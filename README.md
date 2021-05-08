@@ -2,14 +2,14 @@
 Document in development. 
 Potential learning goals split into three paths: Analytics, Data Science, and Software.
 
-### Current Goal: Learn HTML, CSS, JS, and React. Complete 3 React projects (small, medium, large) prior to May 10 (7 weeks). Projects applicable to GEHC if possible.
+### Current Goal: Learn HTML, CSS, JS, and React. Complete 3 React projects (small, small, medium) prior to May 24.
 
 ### Software:
 - Source Control
 - HTML/CSS/JS
 - Python
 - Memory
-- Backend [Node, PHP]
+- Backend [Node]
 - Frontend [Angular, React, Vue]
 
 ### AI/ML/DL:
@@ -50,5 +50,4 @@ Potential learning goals split into three paths: Analytics, Data Science, and So
 19. What is cybersecurity?
 20. How can I use quantum computing and blockchain?
 21. What is Keras vs PyTorch vs TensorFlow?
-22. What jobs allow me to code other than software developers?
 
